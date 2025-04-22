@@ -1,0 +1,5 @@
+name: CI
+push
+branches: [ main, dev ]
+pull request:
+branches [ main ]
